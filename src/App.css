@@ -1,0 +1,26 @@
+.text-center {
+  text-align: center;
+}
+
+.title-h1 {
+  color: purple;
+  transition: all 1.5s;
+}
+
+.title-h1:hover {
+  color: yellow;
+  transform: translate(0, 5vw) scale(1.5);
+  filter: blur(5vw);
+}
+.nobullet {
+  list-style-type: lower-greek;
+}
+#b0 {
+  color: teal;
+}
+#b1 {
+  color: blue;
+}
+#b2 {
+  color: rebeccapurple;
+}
